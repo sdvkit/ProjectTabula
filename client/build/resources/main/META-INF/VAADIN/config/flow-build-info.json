@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client",
+  "node.version": "v16.18.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/build/frontend",
+  "frontendFolder": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/frontend",
+  "connect.javaSourceFolder": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/src/main/java",
+  "javaResourceFolder": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/src/main/resources",
+  "connect.applicationProperties": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "build"
+}

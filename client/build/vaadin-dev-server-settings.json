@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/build/flow-frontend",
+  "staticOutput": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/build/classes/META-INF/VAADIN/webapp",
+  "addonFrontendFolder": "build/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/nikitasudaev/IdeaProjects/Project-Tabula/client/build/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
