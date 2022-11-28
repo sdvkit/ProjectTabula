@@ -4,6 +4,11 @@ export const addCssBlock = function(block, before = false) {
  document.head[before ? 'insertBefore' : 'appendChild'](tpl.content, document.head.firstChild);
 };
 
+import { css, unsafeCSS, registerStyles } from '@vaadin/vaadin-themable-mixin';
+import $cssFromFile_0 from 'Frontend/styles/task-group-style.css?inline';
+const $css_0 = typeof $cssFromFile_0  === 'string' ? unsafeCSS($cssFromFile_0) : $cssFromFile_0;
+registerStyles('vaadin-grid', $css_0, {moduleId: 'flow_css_mod_0'});
+
 import '@polymer/iron-icon/iron-icon.js';
 import '@polymer/iron-list/iron-list.js';
 import '@vaadin/accordion/theme/lumo/vaadin-accordion.js';
